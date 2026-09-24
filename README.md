@@ -43,7 +43,3 @@ The handbook also says weekly submissions are collected through Google Forms, an
 └── diagrams/
     └── ethereum-week1-flow.md
 ```
-
-## Safety
-
-Use **testnet funds only** for this internship work. Never commit a seed phrase, private key, API secret, or real-money credential to GitHub.
